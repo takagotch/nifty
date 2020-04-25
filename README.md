@@ -2,6 +2,10 @@
 ---
 https://github.com/facebookarchive/nifty
 
+### @nifty
+https://www.nifty.com/
+
+
 ```java
 // nifty-core/src/test/java/com/facebook/nifty/core/TestNettyConfigBuilder.java
 package com.facebook.nifty.core;
